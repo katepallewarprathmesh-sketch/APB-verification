@@ -1,0 +1,8 @@
+sim/work/
+sim/logs/
+sim/transcript
+sim/vsim.wlf
+sim/*.log
+*.wlf
+*.ucdb
+.DS_Store
